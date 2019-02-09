@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+
+form{
+    background-color: #fff;
+    padding: 10px;
+    font-display:
+        
+}
+.general{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+.box1{
+    float: left;
+    width: 35%;
+    
+}
+
+.box2{
+    float: right;
+    width: 35%
+}
